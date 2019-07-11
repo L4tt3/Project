@@ -1,0 +1,17 @@
+
+.label{
+    -fx-font-family: "Impact";
+}
+.root {
+     -fx-background-image: url("background.jpg");
+}
+.text-field:focused{
+    -fx-focus-color : #4B0082
+}
+.button{
+    -fx-border-color: #FFFFFF;
+    -fx-border-width: 2;
+    -fx-background-radius: 2;
+    -fx-background-color: #000000;
+    -fx-text-fill: #FFFFFF;
+}
